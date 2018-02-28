@@ -1,3 +1,4 @@
+# Uniform and Non-uniform Video Summarization Using Processing (Course Project for ITCS381 - Introduction to Multimedia Systems)
 **How to run**
 1. Move your video file into data folder and name it vid.mov
 2. Open VideoSummarization.pde in Processing
@@ -7,7 +8,7 @@
              - Enter the length of the video you want to summarize (in seconds) or 0 to summarize the whole video
 5. See the result
 
-*Output*
+**Output**
 - Out_uniform is the output file (.jpg) of the uniform method
 
 - Out_non_uniform is the output file (.jpg) of the non-uniform method
